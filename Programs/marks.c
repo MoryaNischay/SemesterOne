@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 int Marks() {
-    int a, b, c, avg;
+    int a, b, c;
+    float avg;
     printf("Enter the marks in 3 subjects=");
     scanf("%d %d %d", &a, &b, &c);
-    avg = (a + b + c) / 3;
+    avg = (float)(a + b + c) / 3;
     if (avg >= 75) {
         printf("Your Grade is A");
     }
@@ -19,5 +20,6 @@ int Marks() {
 
         return 0;
     }
+    printf("\nYour average grade is %f", avg);
     return 0;
 }
