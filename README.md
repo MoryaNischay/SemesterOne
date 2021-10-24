@@ -1,12 +1,14 @@
-<h1> All C / C++ Programs made in Semester One</h1>
+# All C / C++ Programs made in Semester One
 
 This small repository contains all the programs created in Semester one of University at Thapar Institute Of Engineering and Technology
 
-To contribute please check out [this](CONTRIBUTING.md) 
+To contribute please check out [this](CONTRIBUTING.md) page
 
-<h2> How To use this Repository </h2>
-<hr>
-All the Programs are kept in ./Programs To run a specific file on your system. Clone the repository and make respective changes as listed in main.c
+## How To use this Repository
+
+All the Programs are kept in ./Programs To run a specific file on your system.
+Fork and Clone the Repository. (For more detailed steps check out [CONTRIBUTING.md](CONTRIBUTING.md))
+Run the Required Functions with a working Compiler on your Preferred IDE by editing ``main.c`` to your liking
 Make sure you have a working compiler Installed before you try compiling the Program.
 
-<h4> To report any Issues please open an Issue</h4>
+### If you see anything wrong, make sure to open an Issue
