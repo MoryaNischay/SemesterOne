@@ -1,8 +1,12 @@
 /* Execution Site for Programs */
 
-#include "addNumber.c"
-#include "helloWorld.c"
+#include "Programs/addNumber.c"
+#include "Programs/helloWorld.c"
+#include "Programs/simpleInterest.c"
+#include "Programs/evenOdd.c"
+#include "Programs/marks.c"
+
 int main()
 {
-    AddNumber();
+    Marks();
 }
