@@ -8,5 +8,6 @@
 
 int main()
 {
-    Marks();
+    // Enter Functions you want to run
+    HelloWorld();
 }
