@@ -1,3 +1,4 @@
+/*Get Average Grade as well as your letter Grade*/
 #include <stdio.h>
 
 int Marks() {

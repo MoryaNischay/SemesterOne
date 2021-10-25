@@ -9,10 +9,11 @@
 - In ``main.c`` add ``"#include "Programs/NAME_OF_PROGRAM.c"``
 - Add your files (``git add .``), commit (``git commit -m "added NAME_OF_PROGRAMS_SEPERATED_BY_COMMAS"``) and push (``git push origin new-program``)
 - Create a pull request
+- - Comment Your Name, Subgroup as well as your Roll Number to verify your Identity
 - Star this repository 🌟
 
-# Valid Examples of Correct Code
-``foobarbaz.c``
+# Valid Example of Contributions
+``fooBarBaz.c``
 ```c
 #include <stdio.h>
 
